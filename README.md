@@ -17,4 +17,4 @@ py main.py
 
 ## Need help?
 
-A YouTube video is in the works!
+Create a issue or contact me on discord!
